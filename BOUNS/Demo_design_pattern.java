@@ -31,7 +31,7 @@ public class Demo_design_pattern {
         
         factory_IS f2=new factory_IS();
         staff s2=f2.getsalary(str);
-        s2.serdata("asraf", 3, 36, 6000, 33);
+        s2.serdata("ashraf", 3, 36, 6000, 33);
         s2.getsalary();
         s2.getyearsOFwork();
         s2.printDATA();
