@@ -19,7 +19,7 @@ public class Demo_design_pattern {
     public static void main(String[] args)
     {
         Scanner input=new Scanner(System.in);
-        System.out.println("enter factory");
+        System.out.println("enter departmen doctors`s name");
         String str=input.nextLine();
         
         factory_CS f1=new factory_CS();
